@@ -1,4 +1,4 @@
-Business Intelligence, SQL DBA, TSQL/SSIS/SSRS/SSAS
+## Business Intelligence, SQL DBA, TSQL/SSIS/SSRS/SSAS
 
 <!--
 ## Hi there 👋
